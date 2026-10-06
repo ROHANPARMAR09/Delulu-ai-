@@ -1,0 +1,14 @@
+delulu_backend\PersonalMemoryRepository.class
+delulu_backend\RagService.class
+delulu_backend\ChatController.class
+delulu_backend\CorsConfig.class
+delulu_backend\EmbeddingService.class
+delulu_backend\DocumentChunk.class
+delulu_backend\PersonalContextService.class
+delulu_backend\DocumentChunkService.class
+delulu_backend\DocumentController.class
+delulu_backend\DeluluBackendApplication.class
+delulu_backend\DocumentChunkRepository.class
+delulu_backend\PersonalMemoryService.class
+delulu_backend\PersonalMemory.class
+delulu_backend\RagService$ScoredChunk.class
